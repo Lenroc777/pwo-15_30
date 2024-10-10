@@ -5,5 +5,6 @@ public class Main {
         System.out.println("LOGOWANIE");
         System.out.println("REjestracja");
         System.out.println("Hello world 15");
+        System.out.println("Nowy commit lokalnie");
     }
 }
